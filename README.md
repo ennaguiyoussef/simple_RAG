@@ -202,6 +202,5 @@ curl -X POST http://localhost:5000/chat \
 MIT
 
 ## Auteur
-
-RAG Chatbot Project 🐱
+Youssef Ennagui , Data scientist student at fsdm Fes
 
